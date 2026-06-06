@@ -1,0 +1,24 @@
+Design a clean login interface.  
+
+📌 Description
+This project is created using HTML, CSS , JAVASCRIPT
+It is a beginner-friendly web development project with a clean and responsive design.
+
+🚀 Features
+- Responsive design 
+- Simple and Clean UI
+- Modern and properly aligned UI 
+
+
+🛠️ Technologies Used
+- HTML
+- CSS
+- JS
+
+
+📂 Project Structure
+Project Folder
+│── README.md
+│── index.html
+│── script.js
+│── style.css
